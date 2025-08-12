@@ -32,7 +32,6 @@ The goal is to surface actionable insights and build baseline models recruiters 
 - **Target:** `Churn` (1 = left, 0 = retained)  
 - **Key Features:** Age, Geography, CreditScore, Tenure, Balance, NumOfProducts, HasCrCard, IsActiveMember, EstimatedSalary
 
-> ⚠️ If you include the dataset in this repo, ensure the license permits redistribution. Otherwise, add instructions for downloading from Kaggle.
 
 ---
 
